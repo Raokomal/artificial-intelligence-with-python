@@ -1,5 +1,5 @@
 #software-engineering-projects
-<h1 align="center">Hi, I'm [Rao Komal] 👋</h1>
+<h1 align="center">Hi, I'm Rao Komal 👋</h1>
 
 <p align="center">
   <b>Software Engineering Student</b><br>
