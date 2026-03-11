@@ -1,5 +1,5 @@
 #software-engineering-projects
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm [Rao Komal] 👋</h1>
 
 <p align="center">
   <b>Software Engineering Student</b><br>
@@ -149,10 +149,10 @@ Here are the types of projects I want this profile to showcase:
 ## 🤝 Connect With Me
 
 <p>
-  <a href="[Your LinkedIn URL]">
+  <a href="[I will add that]">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[your email]">
+  <a href="mailto:[raokoomal@gmail.com]">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
